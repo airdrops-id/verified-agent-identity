@@ -32,4 +32,4 @@ run: node scripts/createNewEthereumIdentity.js
 
 - name: Link Human to Agent
 run: |
-node scripts/manualLinkHumanToAgent.js --challenge '{"name":"airdrops-id","description":"wkwkwk AI Agent"}' 
+node scripts/manualLinkHumanToAgent.js --challenge '{"name":"airdrops-id","description":"airdrops-id AI Agent"}' 
